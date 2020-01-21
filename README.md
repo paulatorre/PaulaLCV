@@ -1,2 +1,0 @@
-# PaulaLCV
-Created with CodeSandbox
